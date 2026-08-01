@@ -6,10 +6,6 @@
 
 <br><br>
 
-<img src="profile-3d-contrib/profile-night-view.svg" width="97%" />
-
-<br><br>
-
 <img src="https://raw.githubusercontent.com/berksys/berksys/output/github-contribution-grid-snake-dark.svg" width="97%" />
 
 <br><br>
