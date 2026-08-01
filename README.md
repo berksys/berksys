@@ -1,16 +1,25 @@
-## Hi there 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0d1117,50:1f4b99,100:70a5fd&text=BERKSYS&fontColor=ffffff&fontSize=60&fontAlignY=36&desc=Game%20server%20infrastructure%20%C2%B7%20tooling&descSize=16&descAlignY=56&animation=fadeIn&section=header" width="100%" />
 
-<!--
-**berksys/berksys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+<img src="https://streak-stats.demolab.com?user=berksys&theme=tokyonight&hide_border=true&background=00000000" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br><br>
+
+<img src="profile-3d-contrib/profile-night-view.svg" width="97%" />
+
+<br><br>
+
+<img src="https://raw.githubusercontent.com/berksys/berksys/output/github-contribution-grid-snake-dark.svg" width="97%" />
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=cs,python,js,nodejs,php,html,css,threejs&theme=dark&perline=8" />
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=berksys&style=flat-square&color=blue&label=views" />
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=110&color=0:0d1117,50:1f4b99,100:70a5fd&section=footer" width="100%" />
