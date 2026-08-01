@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0d1117,50:1f4b99,100:70a5fd&text=BERKSYS&fontColor=ffffff&fontSize=65&fontAlignY=38&stroke=ffffff&strokeWidth=2&animation=fadeIn&section=header" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0d1117,50:1f4b99,100:70a5fd&text=BERKSYS&fontColor=ffffff&fontSize=60&fontAlignY=38&animation=fadeIn&section=header" width="100%" />
 
 <div align="center">
 
