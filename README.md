@@ -2,15 +2,15 @@
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=berksys&theme=tokyonight&hide_border=true&background=00000000" />
+<img alt="streak" src="https://streak-stats.demolab.com?user=berksys&theme=tokyonight&hide_border=true&background=00000000" />
 
 <br><br>
 
-<img src="https://skillicons.dev/icons?i=cs,python,js,nodejs,php,html,css,threejs&theme=dark&perline=8" />
+<img alt="skills" src="https://skillicons.dev/icons?i=cs,python,js,nodejs,php,html,css,threejs&theme=dark&perline=8" />
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=berksys&style=flat-square&color=blue&label=views" />
+<img alt="views" src="https://komarev.com/ghpvc/?username=berksys&style=flat-square&color=blue&label=views" />
 
 </div>
 
