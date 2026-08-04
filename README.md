@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img alt="streak" src="https://streak-stats.demolab.com?user=berksys&theme=tokyonight&hide_border=true&background=00000000" />
+<img alt="straeak" src="https://streak-stats.demolab.com?user=berksys&theme=tokyonight&hide_border=true&background=00000000" />
 
 <br><br>
 
