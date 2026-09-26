@@ -6,13 +6,13 @@
 
 <br><br>
 
-<img src="https://skillicons.dev/icons?i=cpp,cs,python,js,nodejs,git,github,vscode&theme=dark&perline=8" />
+<img src="https://skillicons.dev/icons?i=cpp,cs,python,js,nodejs,php,html,css,git,github,vscode,visualstudio&theme=dark&perline=12" />
 
 <br><br>
 
-**C++ • Game Hacking • Reverse Engineering • Game Internals**
+**Game Hacking • Reverse Engineering • Cybersecurity • Low-Level Development**
 
-Building and researching internal game systems, rendering, memory and real-time tools.
+C++ / C# focused developer interested in game internals, software analysis, debugging and security research.
 
 </div>
 
@@ -24,11 +24,21 @@ Building and researching internal game systems, rendering, memory and real-time 
 
 Currently working on a large **C++ internal project for Counter-Strike 2**.
 
-Focused on building a clean and modular codebase around:
+Main areas of the project:
 
-`Rendering` • `Game Internals` • `Input` • `Memory` • `UI` • `Architecture`
+`Game Internals` • `Reverse Engineering` • `Memory` • `Input` • `UI` • `Config System` • `Debugging`
 
-The project is continuously being rewritten, cleaned up and expanded as I explore more of the Source 2 environment and low-level game systems.
+The project is continuously being cleaned up, redesigned and expanded while I experiment with Source 2 internals and low-level C++ development.
+
+<br>
+
+## Languages & Tools
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=cpp,cs,python,js,nodejs,php,html,css,git,github,vscode,visualstudio&theme=dark&perline=12" />
+
+</div>
 
 <br>
 
