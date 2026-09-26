@@ -12,7 +12,7 @@
 
 **Game Hacking • Reverse Engineering • Cybersecurity • Low-Level Development**
 
-C++ / C# focused developer interested in game internals, software analysis, debugging and security research.
+Mostly working with **C++**, with additional experience in **C#, Python and JavaScript**.
 
 </div>
 
@@ -22,13 +22,15 @@ C++ / C# focused developer interested in game internals, software analysis, debu
 
 ### CS2 Internal
 
-Currently working on a large **C++ internal project for Counter-Strike 2**.
+A large **C++ internal cheat project for Counter-Strike 2**, built as an ongoing game hacking and reverse engineering project.
 
-Main areas of the project:
+**Features**
 
-`Game Internals` • `Reverse Engineering` • `Memory` • `Input` • `UI` • `Config System` • `Debugging`
+`Silent Aim` • `Aimbot` • `Anti-Aim` • `ESP` • `Triggerbot`
 
-The project is continuously being cleaned up, redesigned and expanded while I experiment with Source 2 internals and low-level C++ development.
+`Movement` • `Visuals` • `Misc` • `Game Internals`
+
+The project is continuously being rewritten, cleaned up and expanded while I explore Source 2 internals and improve the overall architecture.
 
 <br>
 
