@@ -1,27 +1,27 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=165&color=0:0d1117,55:172554,100:2563eb&text=BERKSYS&fontColor=ffffff&fontSize=56&fontAlignY=38&animation=fadeIn&section=header" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:0d1117,50:1f4b99,100:70a5fd&text=BERKSYS&fontColor=ffffff&fontSize=60&fontAlignY=42&animation=fadeIn&section=header" width="100%" />
 
 <div align="center">
 
-<code>C++</code>
-<code>Reverse Engineering</code>
-<code>Game Internals</code>
-<code>Windows</code>
-<code>Rendering</code>
+<img alt="streak" src="https://streak-stats.demolab.com?user=berksys&theme=tokyonight&hide_border=true&background=00000000" />
 
 <br><br>
 
-<img src="https://skillicons.dev/icons?i=cpp,cs,python,visualstudio,vscode,git,github,cmake&theme=dark&perline=8" />
+<img alt="skills" src="https://skillicons.dev/icons?i=cpp,cs,python,js,nodejs,php,html,css,threejs,git,github,vscode&theme=dark&perline=12" />
 
 <br><br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=berksys&show_icons=true&theme=transparent&hide_border=true&title_color=60a5fa&icon_color=60a5fa&text_color=c9d1d9" height="155" />
+<img alt="stats" src="https://github-readme-stats.vercel.app/api?username=berksys&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=70a5fd&icon_color=70a5fd&text_color=c9d1d9" height="160" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=berksys&layout=compact&theme=transparent&hide_border=true&title_color=60a5fa&text_color=c9d1d9" height="155" />
+<img alt="langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=berksys&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=70a5fd&text_color=c9d1d9" height="160" />
 
-<br>
+<br><br>
 
-<img src="https://komarev.com/ghpvc/?username=berksys&style=flat-square&color=2563eb&label=views" />
+<img alt="activity" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=berksys&theme=tokyonight" width="90%" />
+
+<br><br>
+
+<img alt="views" src="https://komarev.com/ghpvc/?username=berksys&style=flat-square&color=blue&label=views" />
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=85&color=0:0d1117,55:172554,100:2563eb&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=110&color=0:0d1117,50:1f4b99,100:70a5fd&section=footer" width="100%" />
