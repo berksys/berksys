@@ -8,17 +8,13 @@
 
 <img src="https://skillicons.dev/icons?i=cpp,cs,python,js,nodejs,git,github,vscode&theme=dark&perline=8" />
 
+<br><br>
+
+**C++ • Game Hacking • Reverse Engineering • Game Internals**
+
+Building and researching internal game systems, rendering, memory and real-time tools.
+
 </div>
-
-<br>
-
-## About
-
-**C++ developer** interested in:
-
-`Game Hacking` • `Reverse Engineering` • `Game Internals` • `Windows`
-
-I like working close to the system level, understanding how games work internally, and building real-time tools and experiments.
 
 <br>
 
@@ -28,11 +24,11 @@ I like working close to the system level, understanding how games work internall
 
 Currently working on a large **C++ internal project for Counter-Strike 2**.
 
-Main focus:
+Focused on building a clean and modular codebase around:
 
 `Rendering` • `Game Internals` • `Input` • `Memory` • `UI` • `Architecture`
 
-The project is constantly being rewritten and improved as I learn more about Source 2 and low-level development.
+The project is continuously being rewritten, cleaned up and expanded as I explore more of the Source 2 environment and low-level game systems.
 
 <br>
 
@@ -41,6 +37,10 @@ The project is constantly being rewritten and improved as I learn more about Sou
 <img src="https://github-readme-stats.vercel.app/api?username=berksys&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=70a5fd&icon_color=70a5fd&text_color=c9d1d9" height="155" />
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=berksys&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=70a5fd&text_color=c9d1d9" height="155" />
+
+<br><br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=berksys&theme=tokyonight" width="90%" />
 
 <br><br>
 
