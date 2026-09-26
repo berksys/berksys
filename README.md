@@ -2,6 +2,26 @@
 
 <div align="center">
 
+### About Me
+
+Interested in **game hacking, reverse engineering, game internals, low-level development and Windows internals**.
+
+I mostly work with **C++** and enjoy understanding how games work internally, experimenting with rendering, memory, input systems and real-time software.
+
+<br>
+
+### Current Project
+
+**CS2 Internal Research Project**
+
+A large C++ project focused on studying internal game systems and building a modular real-time framework around CS2.
+
+Currently working on areas such as:
+
+`Internal Architecture` • `Rendering` • `UI` • `Input` • `Memory` • `Game Internals` • `Reverse Engineering`
+
+<br><br>
+
 <img alt="streak" src="https://streak-stats.demolab.com?user=berksys&theme=tokyonight&hide_border=true&background=00000000" />
 
 <br><br>
