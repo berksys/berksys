@@ -2,26 +2,6 @@
 
 <div align="center">
 
-### About Me
-
-Interested in **game hacking, reverse engineering, game internals, low-level development and Windows internals**.
-
-I mostly work with **C++** and enjoy understanding how games work internally, experimenting with rendering, memory, input systems and real-time software.
-
-<br>
-
-### Current Project
-
-**CS2 Internal Research Project**
-
-A large C++ project focused on studying internal game systems and building a modular real-time framework around CS2.
-
-Currently working on areas such as:
-
-`Internal Architecture` • `Rendering` • `UI` • `Input` • `Memory` • `Game Internals` • `Reverse Engineering`
-
-<br><br>
-
 <img alt="streak" src="https://streak-stats.demolab.com?user=berksys&theme=tokyonight&hide_border=true&background=00000000" />
 
 <br><br>
@@ -34,7 +14,41 @@ Currently working on areas such as:
 
 <img alt="langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=berksys&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=70a5fd&text_color=c9d1d9" height="160" />
 
+</div>
+
+<br>
+
+## About
+
+I spend most of my time working with **C++** and experimenting with how games and real-time software work internally.
+
+My main interests include:
+
+`Game Hacking` • `Reverse Engineering` • `Game Internals` • `Windows Internals` • `Memory` • `Rendering` • `Low-Level Development`
+
+I enjoy building systems from scratch, debugging complex problems and understanding how software works beneath the surface.
+
+<br>
+
+## Current Project
+
+### CS2 Internal
+
+Currently developing a large **C++ internal project for Counter-Strike 2**.
+
+The project is built around a modular architecture and focuses on experimenting with different parts of the Source 2 environment.
+
+**Main areas:**
+
+`Internal Architecture` • `Rendering` • `Input Handling` • `Game Internals`
+
+`Memory Systems` • `ImGui / UI` • `Configuration Systems` • `Reverse Engineering`
+
+The project has grown into one of my largest C++ codebases and is continuously being cleaned up, redesigned and expanded.
+
 <br><br>
+
+<div align="center">
 
 <img alt="activity" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=berksys&theme=tokyonight" width="90%" />
 
