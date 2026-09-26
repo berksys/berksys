@@ -30,8 +30,6 @@ A large **C++ internal cheat project for Counter-Strike 2**, built as an ongoing
 
 `Movement` • `Visuals` • `Misc` • `Game Internals`
 
-The project is continuously being rewritten, cleaned up and expanded while I explore Source 2 internals and improve the overall architecture.
-
 <br>
 
 ## Languages & Tools
